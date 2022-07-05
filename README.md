@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Andu
-- 🌱 I’m currently learning HTML/CSS/JS
+- Hi, I’m Andu
+- I’m currently learning HTML/CSS/JS
 - I'm learning and working on personal projects in C# for almost 8 years.
 
 <!---
